@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1580562954 source:c:\geda\virality\virality2\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1580595349 source:c:\geda\virality2\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+
